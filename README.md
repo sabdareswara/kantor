@@ -1,5 +1,3 @@
-Berikut ini adalah versi HTML sederhana dari tampilan dan fungsi dasar sistem yang kamu buat di React. Versi ini tidak interaktif seperti React, tapi cukup untuk menampilkan preview awal (bisa kamu buka langsung di browser):
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -108,17 +106,3 @@ Berikut ini adalah versi HTML sederhana dari tampilan dan fungsi dasar sistem ya
   </section>
 </body>
 </html>
-
-Cara pakai:
-
-1. Salin kode di atas ke file bernama index.html.
-
-
-2. Buka file tersebut di browser (klik 2x atau drag ke browser).
-
-
-
-Kalau kamu mau versi interaktif (input data benar-benar tersimpan dan bisa export CSV), kita bisa lanjutkan dengan membuat versi JavaScript interaktif atau full React seperti sebelumnya.
-
-Mau lanjut bikin yang interaktif atau cukup ini dulu?
-
